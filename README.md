@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Luis+Carlos+%7C+Dev+Web%2C+Dados+e+Embarcados;Engenharia+de+Computa%C3%A7%C3%A3o+%F0%9F%8E%93+UFC;Bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://github.com/luiscarlos-engcomp">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1ABC9C&vCenter=true&multiline=true&width=700&height=100&lines=Luis+Carlos+%7C+Desenvolvedor+de+Software;Projetos+Web%2C+Dados+e+Embarcados;Engenharia+de+Computa%C3%A7%C3%A3o+%E2%80%94+UFC" alt="Typing SVG"/>
+  </a>
 </p>
+
 
 ---
 
-<h1 align="center">👋 Olá, eu sou o Luis Carlos!</h1>
+<h1 align="left">👋 Olá, eu sou o Luis Carlos!</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Engenharia de Computação</strong> na UFC <br/>
-  💻 Desenvolvedor de Software com projetos em <strong>Web, Dados e Sistemas Embarcados</strong> <br/>
+  💻 Desenvolvedor de Software com projetos em <strong>Desenvolvimento Web, Dados e Sistemas Embarcados</strong> <br/>
+  🎓 Graduando em <strong>Engenharia de Computação</strong> na UFC <br/>
   🌱 Apaixonado por tecnologia, aprendizado contínuo e desafios!
 </p>
 
@@ -78,8 +81,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiscarlos-engcomp&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luiscarlos-engcomp&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscarlo5&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luiscarlo5&theme=tokyonight" width="49%" />
 </p>
 
 ---
