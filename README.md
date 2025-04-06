@@ -56,7 +56,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino"/>
-  <img src="https://img.icons8.com/fluency/48/microchip.png" height="50" alt="ESP32" />
+  <img src="https://www.mouser.com/images/marketingid/2022/img/153097718.png?v=012125.0916" height="50" alt="STM CUBE IDE" />
 </p>
 
 ### 🗃️ Banco de Dados
@@ -90,9 +90,8 @@
 ## 🌐 Contato
 
 - 💼 [LinkedIn](www.linkedin.com/in/luis-carlos-eng-comp)
-<!-- 💻 [Portfólio](https://seu-portfolio.com) -->
 - 📫 Email: [opção 1](lc9680711@email.com) | [opção 2](luiscarlosengcomp@email.com)
-- 📱 Contato: [WhatsApp](85988438013)
+- 📱 Contato: [WhatsApp](https://wa.me/+5585988438013) <!-- 💻 [Portfólio](https://seu-portfolio.com) -->
 ---
 
 > “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
