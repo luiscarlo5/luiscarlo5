@@ -52,13 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/>
 </p>
 
-### 🔌 Sistemas Embarcados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino"/>
-  <img src="https://www.mouser.com/images/marketingid/2022/img/153097718.png?v=012125.0916" height="50" alt="STM CUBE IDE" />
-</p>
-
 ### 🗃️ Banco de Dados
 
 <p align="left">
@@ -72,8 +65,16 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gitlab-integration-with-git-repository-hosting-logo-color-tal-revivo.png" height="50" alt="GitLab"/>
+  <img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+</p>
+
+### 🔌 Sistemas Embarcados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino"/>
+  <img src="https://stm32ai.st.com/wp-content/uploads/2024/12/hp-tool-stm32cube-ai.png" height="70" alt="STM CUBE IDE" />
+  
 </p>
 
 ---
