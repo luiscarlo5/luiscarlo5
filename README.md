@@ -7,10 +7,10 @@
 
 ---
 
-<h1 align="left">👋 Olá, eu sou o Luis Carlos!</h1>
+<h1 align="left">👋 Olá, sou Luis Carlos!</h1>
 
 <p align="center">
-  💻 Desenvolvedor de Software com projetos em <strong>Desenvolvimento Web, Dados e Sistemas Embarcados</strong> <br/>
+  💻 Desenvolvedor de Software com projetos em <strong>Desenvolvimento Web, Dados, IA, Visão Computacional e Sistemas Embarcados</strong> <br/>
   🎓 Graduando em <strong>Engenharia de Computação</strong> na UFC <br/>
   🌱 Apaixonado por tecnologia, aprendizado contínuo e desafios!
 </p>
