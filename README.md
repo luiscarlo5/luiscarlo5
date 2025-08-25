@@ -8,16 +8,21 @@
 ---
 
 <h1 align="left">👋 Olá, sou Luis Carlos!</h1>
+---
 
+## Sobre mim
 <p align="center">
   💻 Desenvolvedor de Software com projetos em <strong>Desenvolvimento Web, Dados, IA, Visão Computacional e Sistemas Embarcados</strong> <br/>
-  🎓 Graduando em <strong>Engenharia de Computação</strong> na UFC <br/>
-  🌱 Apaixonado por tecnologia, aprendizado contínuo e desafios!
+  🎓 Graduando em <strong>Engenharia de Computação</strong> na UFC <br/> Apaixonado por tecnologia, aprendizado contínuo e desafios!
 </p>
+
+
+
+
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 Tecnologias e Ferramentas
 
 - 💻 Desenvolvimento Web com <strong>React, Node.js, Flask, HTML, CSS e Bootstrap</strong>
 - 📊 Projetos com **Ciência de Dados, Estatística e Machine Learning**
@@ -25,10 +30,6 @@
 - 🧠 Experiência em análise e manipulação de dados com SQL, R e Python
 - 🔧 Projetos embarcados com **C/C++, Arduino IDE, ESP32, STM32 e Raspberry Pi Pico W**
 - 🛠️ Foco em gestão ágil, boas práticas, organização e aprendizado constante
-
----
-
-## 🧠 Tecnologias e Ferramentas
 
 ### 🚀 Linguagens de Programação
 
