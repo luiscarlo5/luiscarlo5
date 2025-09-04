@@ -1,39 +1,31 @@
-<p align="center">
-  <a href="https://github.com/luiscarlos-engcomp">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1ABC9C&vCenter=true&multiline=true&width=700&height=100&lines=Luis+Carlos+%7C+Desenvolvedor+de+Software;Projetos+Web%2C+Dados+e+Embarcados;Engenharia+de+Computa%C3%A7%C3%A3o+%E2%80%94+UFC" alt="Typing SVG"/>
-  </a>
-</p>
-
-
 ---
-
-<h1 align="left">👋 Olá, sou Luis Carlos!</h1>
----
+<h1 align="left">Luis Carlos</h1>
 
 ## Sobre mim
-<p align="center">
-  💻 Desenvolvedor de Software com projetos em <strong>Desenvolvimento Web, Dados, IA, Visão Computacional e Sistemas Embarcados</strong> <br/>
-  🎓 Graduando em <strong>Engenharia de Computação</strong> na UFC <br/> Apaixonado por tecnologia, aprendizado contínuo e desafios!
+<p>
+  Sou cearense e brasileiro, tenho 22 anos e sou apaixonado pela área de dados e suas tecnologias. Tenho grande interesse em Ciência e Engenharia de Dados e busco constantemente novos desafios nesse campo. Graduando em Engenharia de Computação na Universidade Federal do Ceará, participo de projetos de pesquisa e desenvolvimento de software em inteligência artificial, especialmente nas áreas da saúde e tecnologia assistiva, além de atuar em projetos de desenvolvimento de software IoT, Web e Mobile. Também já tive experiência profissional com dados, atuando tanto em análise quanto em engenharia de dados.
+</p>
+<p>
+  Sou uma pessoa curiosa e me interesso facilmente por qualquer tema relacionado à tecnologia. Busco sempre me atualizar sobre conteúdos modernos e relevantes da área, valorizando a base sólida em computação como fundamental para meu aprendizado e crescimento profissional para trabalhar de maneira eficaz e com metodologias ágeis.
 </p>
 
-
-
-
+---
+## Conhecimentos
+<p align="left">
+<p>
+-> Sou Cientista e Engenheiro de Dados com amplo conhecimento e experiência em pesquisas e projetos nas áreas de Inteligência Artificial, Machine Learning, Deep Learning e Visão Computacional, utilizando <strong>OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn</strong>, MediaPipe, Dlib e OPFython. Tenho sólida experiência em engenharia de dados, trabalhando com <strong>Docker, Databricks (Workflows), PySpark, Linux, AWS, SQL, ETL e Arquitetura Medallion</strong>, além de construção e otimização de pipelines de dados, modelagem de dados, análise exploratória, limpeza e transformação de dados, integração de fontes heterogêneas e uso de metodologias ágeis em projetos de dados.
+</p>
+<p>
+-> Tecnologias e ferramentas que domino: <strong>Python (principal), SQL, Excel, Docker, AWS, Databricks, PySpark, Linux, OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook além de possuir experiência profissional e acadêmica complementar com R, C/C++, JavaScript, TypeScript, MediaPipe, Dlib e OPFython</strong>.
+</p>
+<p>
+</p>
 
 ---
-
-## 🧠 Tecnologias e Ferramentas
-
-- 💻 Desenvolvimento Web com <strong>React, Node.js, Flask, HTML, CSS e Bootstrap</strong>
-- 📊 Projetos com **Ciência de Dados, Estatística e Machine Learning**
-- 🤖 Visão Computacional e Deep Learning com Python
-- 🧠 Experiência em análise e manipulação de dados com SQL, R e Python
-- 🔧 Projetos embarcados com **C/C++, Arduino IDE, ESP32, STM32 e Raspberry Pi Pico W**
-- 🛠️ Foco em gestão ágil, boas práticas, organização e aprendizado constante
-
-### 🚀 Linguagens de Programação
+### Linguagens
 
 <p align="left">
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
@@ -42,7 +34,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R"/>
 </p>
 
-### 🌐 Web
+### Tecnologias
+<p align="left">
+  <!-- Ferramentas e Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  <img src="https://www.dbacorp.com.br/wp-content/uploads/2018/10/aws-logo.jpg" height="50" alt="AWS"/>
+  <img src="https://spark.apache.org/images/spark-logo.png" height="50" alt="PySpark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="50" alt="Databricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
+  <img src="https://img.icons8.com/?size=512&id=117561&format=png" height="50" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase"/>
+</p>
+
+### Web
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
@@ -53,28 +62,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/>
 </p>
 
-### 🗃️ Banco de Dados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="50" alt="SQLite"/>
-  <img src="https://img.icons8.com/color/48/sql.png" height="50" alt="SQL"/>
 </p>
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
   <img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-</p>
-
-### 🔌 Sistemas Embarcados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino"/>
-  <img src="https://stm32ai.st.com/wp-content/uploads/2024/12/hp-tool-stm32cube-ai.png" height="70" alt="STM CUBE IDE" />
   
 </p>
 
@@ -89,11 +84,9 @@
 
 ---
 
-## 🌐 Contato
+## Contato
 
 - 💼 [LinkedIn](www.linkedin.com/in/luis-carlos-eng-comp)
 - 📫 Email: [opção 1](lc9680711@email.com) | [opção 2](luiscarlosengcomp@email.com)
 - 📱 Contato: [WhatsApp](https://wa.me/+5585988438013) <!-- 💻 [Portfólio](https://seu-portfolio.com) -->
 ---
-
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
