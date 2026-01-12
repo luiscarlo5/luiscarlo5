@@ -3,7 +3,7 @@
 
 ## Sobre mim
 <p>
-  Sou cearense e brasileiro, tenho 22 anos e sou apaixonado pela área de dados e suas tecnologias. Tenho grande interesse em Ciência e Engenharia de Dados e busco constantemente novos desafios nesse campo. Graduando em Engenharia de Computação na Universidade Federal do Ceará, participo de projetos de pesquisa e desenvolvimento de software em inteligência artificial, especialmente nas áreas da saúde e tecnologia assistiva, além de atuar em projetos de desenvolvimento de software IoT, Web e Mobile. Também já tive experiência profissional com dados, atuando tanto em análise quanto em engenharia de dados.
+  Sou cearense e brasileiro, tenho 22 anos e sou apaixonado pela área de dados e suas tecnologias e hoje trabalho com desenvolvimento de software para área de tecnologia social com uso de inteligência artifical, através de projetos pela Universidade Federal do Ceará com parceria com outras instutuições. Tenho grande interesse em Ciência e Engenharia de Dados e busco constantemente novos desafios nesse campo. Graduando em Engenharia de Computação na Universidade Federal do Ceará, participo de projetos de pesquisa e desenvolvimento de software em inteligência artificial, especialmente nas áreas da saúde e tecnologia assistiva, além de atuar em projetos de desenvolvimento de software IoT, Web e Mobile. Também já tive experiência profissional com dados, atuando tanto em análise quanto em engenharia de dados.
 </p>
 <p>
   Sou uma pessoa curiosa e me interesso facilmente por qualquer tema relacionado à tecnologia. Busco sempre me atualizar sobre conteúdos modernos e relevantes da área, valorizando a base sólida em computação como fundamental para meu aprendizado e crescimento profissional para trabalhar de maneira eficaz e com metodologias ágeis.
@@ -13,10 +13,10 @@
 ## Conhecimentos
 <p align="left">
 <p>
--> Sou Cientista e Engenheiro de Dados com amplo conhecimento e experiência em pesquisas e projetos nas áreas de Inteligência Artificial, Machine Learning, Deep Learning e Visão Computacional, utilizando <strong>OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn</strong>, MediaPipe, Dlib e OPFython. Tenho sólida experiência em engenharia de dados, trabalhando com <strong>Docker, Databricks (Workflows), PySpark, Linux, AWS, SQL, ETL e Arquitetura Medallion</strong>, além de construção e otimização de pipelines de dados, modelagem de dados, análise exploratória, limpeza e transformação de dados, integração de fontes heterogêneas e uso de metodologias ágeis em projetos de dados.
+-> Sou Cientista e Engenheiro de Dados, mas também trabalho muito com desenvolvimento de software web e desktop, Com amplo conhecimento e experiência em pesquisas e projetos nas áreas de Inteligência Artificial, Machine Learning, Deep Learning e Visão Computacional, utilizando <strong>OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn</strong>, MediaPipe, Dlib e OPFython. Tenho sólida experiência em engenharia de dados, trabalhando com <strong>Docker, Databricks (Workflows), PySpark, Linux, AWS, SQL, ETL e Arquitetura Medallion</strong>, além de construção e otimização de pipelines de dados, modelagem de dados, análise exploratória, limpeza e transformação de dados, integração de fontes heterogêneas e uso de metodologias ágeis em projetos de dados.
 </p>
 <p>
--> Tecnologias e ferramentas que domino: <strong>Python (principal), SQL, Excel, Docker, AWS, Databricks, PySpark, Linux, OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook além de possuir experiência profissional e acadêmica complementar com R, C/C++, JavaScript, TypeScript, MediaPipe, Dlib e OPFython</strong>.
+-> Tecnologias e ferramentas que domino ou já usei em projetos durante meus 4 anos de trabalho na área: <strong>Python (principal), SQL, Excel, Docker, AWS, Databricks, PySpark, Linux, OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook além de possuir experiência profissional e acadêmica complementar com R, C/C++, MediaPipe, Dlib e OPFython. JavaScript, TypeScript, React, Node JS, Banco de Dados SQL, Express, Tailwind, HTML/CSS, Qt Creator, PySide6, PyQT6</strong>.
 </p>
 <p>
 </p>
