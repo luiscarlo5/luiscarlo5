@@ -83,9 +83,14 @@ Possuo experiência comprovada em projetos de Pesquisa e Desenvolvimento (P&D) i
 
 ## Métricas de Contribuíção
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiscarlo5&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlo5&layout=compact&theme=tokyonight" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscarlo5&show_icons=true&theme=tokyonight" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luiscarlo5&theme=tokyonight" width="49%" />
+
 </p>
+
+
 
 ---
 
