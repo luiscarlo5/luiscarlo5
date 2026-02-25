@@ -1,92 +1,95 @@
----
-<h1 align="left">Luis Carlos</h1>
-
-## Sobre mim
-<p>
-  Sou cearense e brasileiro, tenho 23 anos e sou apaixonado pela área de dados e suas tecnologias e hoje trabalho com desenvolvimento de software para área de tecnologia social com uso de inteligência artifical, através de projetos pela Universidade Federal do Ceará com parceria com outras instutuições. Tenho grande interesse em Ciência e Engenharia de Dados e busco constantemente novos desafios nesse campo. Graduando em Engenharia de Computação na Universidade Federal do Ceará, participo de projetos de pesquisa e desenvolvimento de software em inteligência artificial, especialmente nas áreas da saúde e tecnologia assistiva, além de atuar em projetos de desenvolvimento de software IoT, Web e Mobile. Também já tive experiência profissional com dados, atuando tanto em análise quanto em engenharia de dados.
-</p>
-<p>
-  Sou uma pessoa curiosa e me interesso facilmente por qualquer tema relacionado à tecnologia. Busco sempre me atualizar sobre conteúdos modernos e relevantes da área, valorizando a base sólida em computação como fundamental para meu aprendizado e crescimento profissional para trabalhar de maneira eficaz e com metodologias ágeis.
-</p>
-
----
-## Conhecimentos
-<p align="left">
-<p>
--> Sou Cientista e Engenheiro de Dados, mas também trabalho muito com desenvolvimento de software web e desktop, Com amplo conhecimento e experiência em pesquisas e projetos nas áreas de Inteligência Artificial, Machine Learning, Deep Learning e Visão Computacional, utilizando <strong>OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn</strong>, MediaPipe, Dlib e OPFython. Tenho sólida experiência em engenharia de dados, trabalhando com <strong>Docker, Databricks (Workflows), PySpark, Linux, AWS, SQL, ETL e Arquitetura Medallion</strong>, além de construção e otimização de pipelines de dados, modelagem de dados, análise exploratória, limpeza e transformação de dados, integração de fontes heterogêneas e uso de metodologias ágeis em projetos de dados.
-</p>
-<p>
--> Tecnologias e ferramentas que domino ou já usei em projetos durante meus 4 anos de trabalho na área: <strong>Python (principal), SQL, Excel, Docker, AWS, Databricks, PySpark, Linux, OpenCV, Keras, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook além de possuir experiência profissional e acadêmica complementar com R, C/C++, MediaPipe, Dlib e OPFython. JavaScript, TypeScript, React, Node JS, Banco de Dados SQL, Express, Tailwind, HTML/CSS, Qt Creator, PySide6, PyQT6</strong>.
-</p>
-<p>
-</p>
-
----
-### Linguagens
-
-<p align="left">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R"/>
-</p>
-
-### Tecnologias
-<p align="left">
-  <!-- Ferramentas e Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
-  <img src="https://www.dbacorp.com.br/wp-content/uploads/2018/10/aws-logo.jpg" height="50" alt="AWS"/>
-  <img src="https://spark.apache.org/images/spark-logo.png" height="50" alt="PySpark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="50" alt="Databricks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
-  <img src="https://img.icons8.com/?size=512&id=117561&format=png" height="50" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase"/>
-</p>
-
-### Web
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/>
-</p>
-
-</p>
-
-### Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-  <img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-  
-</p>
+# Luis Carlos Rodrigues dos Anjos
+### Desenvolvedor de Software, com foco em Backend, FrontEnd e Inteligência de Dados
 
 ---
 
-## 📈 GitHub Stats
+## Perfil Profissional
+Graduando em Engenharia de Computação pela Universidade Federal do Ceará (UFC), com sólida trajetória no desenvolvimento de sistemas escaláveis e soluções de inteligência computacional. Minha atuação converge entre a Engenharia de Software Backend e a Engenharia de Dados, com ênfase em arquiteturas de alta performance, processamento de grandes volumes de dados e implementação de modelos de Deep Learning em produção.
 
+Possuo experiência comprovada em projetos de Pesquisa e Desenvolvimento (P&D) integrados a instituições como CNPq, laboratórios especializados (LESC) e Startups (GESTUS), focando em tecnologias assistivas, visão computacional aplicada à saúde e monitoramento em tempo real.
+
+---
+
+## Domínios Técnicos
+
+### Engenharia de Dados e Infraestrutura
+* **Arquiteturas:** Implementação de arquitetura Medallion (Bronze, Silver, Gold) em ambientes Lakehouse.
+* **Processamento:** ETL/ELT escaláveis utilizando PySpark, SQL e Databricks Workflows.
+* **Cloud & DevOps:** Provisionamento em AWS (EC2, S3), conteinerização com Docker e gestão de ciclo de vida de modelos com MLflow.
+* **Bancos de Dados:** Modelagem e otimização em PostgreSQL, MySQL e integração com soluções NoSQL.
+
+### Desenvolvimento de Software Backend
+* **Frameworks:** Construção de APIs RESTful de alta performance com FastAPI, Flask e Express.js.
+* **Qualidade e Testes:** Implementação de suítes de testes unitários e de integração (Pytest, Unittest, Vitest).
+* **Segurança:** Implementação de autenticação JWT, gestão de middlewares e protocolos de segurança em nuvem.
+* **Sistemas:** Desenvolvimento de interfaces desktop complexas com PySide6/Qt integradas a algoritmos de processamento paralelo e concorrência.
+
+### Inteligência Computacional e Visão
+* **Deep Learning:** Treinamento de Redes Neurais Convencionais (CNNs) e modelos baseados em Grafos utilizando PyTorch e TensorFlow.
+* **Visão Computacional:** Processamento de imagem em tempo real, rastreamento ocular e reconhecimento gestual com OpenCV e MediaPipe.
+* **Analytics:** Análise Exploratória de Dados (EDA) avançada, visualização científica e modelagem estatística.
+
+---
+
+## Experiência Recente e Projetos
+
+| Instituição / Empresa | Função | Tecnologias Chave |
+|:--- |:--- |:--- |
+| **UFC / BioValor** | Dev Backend | FastAPI, PostgreSQL, Dashboards em tempo real |
+| **Martins Engenharia** | Engenheiro de Dados | PySpark, Databricks, AWS, Arquitetura Medalhão |
+| **UFC (GESTUS)** | Pesquisador P&D | Python, Qt, Visão Computacional, Threads |
+| **UFC (CNPq/PICME)** | Pesquisador ML | PyTorch, Grafos, Processamento de Imagens Médicas |
+
+---
+
+## Formação Acadêmica e Certificações
+* **Bacharelado em Engenharia de Computação** – Universidade Federal do Ceará (UFC).
+* **AI/BI for Data Analytics** – Databricks.
+* **Fundamentals of Deep Learning** – NVIDIA.
+* **Cloud Computing & Security Foundations** – AWS / IFCE (480h).
+* **Desenvolvimento Web Full Stack** – IEL/FIEC.
+
+---
+### Linguagens e Core
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Engenharia de Dados e Cloud
+![Apache Spark](https://img.shields.io/badge/pyspark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Inteligência Artificial e Visão Computacional
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### Frameworks Backend e Ferramentas
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+---
+
+## Métricas de Contribuíção
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiscarlo5&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luiscarlo5&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscarlo5&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlo5&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## Contato
-
-- 💼 [LinkedIn](www.linkedin.com/in/luis-carlos-eng-comp)
-- 📫 Email: [opção 1](lc9680711@email.com) | [opção 2](luiscarlosengcomp@email.com)
-- 📱 Contato: [WhatsApp](https://wa.me/+5585988438013) <!-- 💻 [Portfólio](https://seu-portfolio.com) -->
----
+## Contato e Portfólio Científico
+* **LinkedIn:** [linkedin.com/in/luis-carlos-eng-comp](https://www.linkedin.com/in/luis-carlos-eng-comp)
+* **Currículo Lattes:** [Acesso à plataforma CNPq](http://lattes.cnpq.br/7847494331935063)
+* **E-mail:** luiscarlosengcomp@gmail.com
