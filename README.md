@@ -1,5 +1,5 @@
 # Luis Carlos Rodrigues dos Anjos
-### Desenvolvedor de Software, com foco em Backend, FrontEnd e Inteligência de Dados
+### Desenvolvedor de Software, com foco em Backend, FrontEnd e também em Análise e Engenharia de Dados
 
 ---
 
